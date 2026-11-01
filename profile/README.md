@@ -138,6 +138,8 @@ colour and fog; clouds, weather and reflective water aren't part of it.</sub>
 
 Each milestone ends in something runnable, and is done only when its acceptance check passes. Green
 is done, orange is under way, and grey is planned.
+[GitHub's milestones](https://github.com/LimoniteMC/limonite-client/milestones) follow the same list,
+with the current one's steps ticked as they land.
 
 ```diff
 +  0   Recon                     How Pumpkin talks to Bedrock, mapped                  
