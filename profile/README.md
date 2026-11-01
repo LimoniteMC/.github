@@ -16,8 +16,9 @@
 <br>
 [![Current milestone: 5, playable singleplayer](https://img.shields.io/badge/current_milestone-5_%C2%B7_playable_singleplayer-818600?style=for-the-badge&labelColor=1A1A1A)](https://github.com/LimoniteMC/limonite-client/blob/main/docs/milestones/m5-plan.md)
 [![Developed AI-first with Claude](https://img.shields.io/badge/AI--first-Claude-818600?style=for-the-badge&logo=claude&logoColor=white&labelColor=1A1A1A)](https://github.com/LimoniteMC/limonite-client#how-its-made)
+[![Discord: join us](https://img.shields.io/badge/Discord-join_us-818600?style=for-the-badge&logo=discord&logoColor=white&labelColor=1A1A1A)](https://discord.gg/C7DHyAYGun)
 
-[**The client**](https://github.com/LimoniteMC/limonite-client) · [**The fork**](https://github.com/LimoniteMC/Pumpkin/tree/limonite) · [**Build it**](https://github.com/LimoniteMC/limonite-client#try-it) · [**Wiki**](https://github.com/LimoniteMC/limonite-client/wiki) · [**Report a bug**](https://github.com/LimoniteMC/limonite-client/issues/new/choose)
+[**The client**](https://github.com/LimoniteMC/limonite-client) · [**The fork**](https://github.com/LimoniteMC/Pumpkin/tree/limonite) · [**Build it**](https://github.com/LimoniteMC/limonite-client#try-it) · [**Wiki**](https://github.com/LimoniteMC/limonite-client/wiki) · [**Discord**](https://discord.gg/C7DHyAYGun) · [**Report a bug**](https://github.com/LimoniteMC/limonite-client/issues/new/choose)
 
 <br>
 
