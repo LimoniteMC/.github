@@ -10,7 +10,7 @@
 
 **A Minecraft: Bedrock Edition client, written in Rust from scratch,<br>with a forked [Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) server built in for singleplayer.**
 
-[![Bedrock 1.26.51](https://img.shields.io/badge/Bedrock-1.26.51-818600?style=for-the-badge&labelColor=1A1A1A)](https://github.com/LimoniteMC/limonite-client#the-pumpkin-fork)
+[![Bedrock 1.26.60](https://img.shields.io/badge/Bedrock-1.26.60-818600?style=for-the-badge&labelColor=1A1A1A)](https://github.com/LimoniteMC/limonite-client#the-pumpkin-fork)
 [![Rust 2024 edition](https://img.shields.io/badge/Rust-2024_edition-818600?style=for-the-badge&logo=rust&logoColor=white&labelColor=1A1A1A)](https://www.rust-lang.org/)
 [![Licence: GPL-3.0](https://img.shields.io/badge/licence-GPL--3.0-818600?style=for-the-badge&labelColor=1A1A1A)](https://github.com/LimoniteMC/limonite-client/blob/main/LICENSE)
 <br>
