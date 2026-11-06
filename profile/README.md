@@ -35,8 +35,9 @@
 
 > [!WARNING]
 > **Limonite is under heavy construction, so expect little to no functionality.** Today you can walk
-> and fly around a singleplayer world drawn with vanilla textures, with a HUD, and break and place
-> blocks, and that's it: no lighting, sky or mobs yet. There are no releases yet either, so you
+> and fly around a singleplayer world drawn with vanilla textures, with a HUD, break and place
+> blocks, and move things about in your inventory, and that's it: no lighting, sky or mobs yet.
+> There are no releases yet either, so you
 > [build it from source](https://github.com/LimoniteMC/limonite-client#try-it).
 
 ## Two repos
