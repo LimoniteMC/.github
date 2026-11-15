@@ -34,10 +34,10 @@
 > **2.** A Minecraft client written in Rust, with a lemon for a mascot.
 
 > [!WARNING]
-> **Limonite is under heavy construction, so expect little to no functionality.** Today you can walk
-> and fly around a singleplayer world drawn with vanilla textures, lit as the day goes by, with a
-> HUD, break and place blocks, move things about in your inventory, and watch mobs wander about as plain
-> boxes, and that's it.
+> **Limonite is under heavy construction, so expect little to no functionality.** Today you can pick
+> or create a world from a world list, walk and fly around it, drawn with vanilla textures and lit as
+> the day goes by, with a HUD, break and place blocks, move things about in your inventory, watch mobs
+> wander about as plain boxes, die and respawn, and type commands, and that's it.
 > There are no releases yet either, so you
 > [build it from source](https://github.com/LimoniteMC/limonite-client#try-it).
 
